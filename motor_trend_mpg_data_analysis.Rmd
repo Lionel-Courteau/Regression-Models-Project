@@ -4,7 +4,7 @@ author: "Lionel Courteau"
 date: "July 25, 2021"
 output: html_document
 ---
-  *Created with knitr*
+
   
   #### Executive Summary
   This report analyzed the relationship between transmission type (manual or 
